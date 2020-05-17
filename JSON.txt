@@ -1,0 +1,21 @@
+
+Create comment request Sample: {
+				 "Type": "insert",
+				 "User": "",
+				 "Comment": "",
+				 "PostId": ""
+				}
+like comment request Sample: {
+				 "Type": "like",
+				 "User": "",
+				 "PostId": ""
+				}
+Unlike comment request Sample: {
+				 "Type": "unlike",
+				 "User": "",
+				 "PostId": ""
+				}
+Get comments for a request Sample: {
+				    "Type": "getCom",
+				    "PostId": ""
+				   }
